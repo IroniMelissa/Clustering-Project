@@ -8,6 +8,6 @@ K-means algorithm capable of partitioning a dataset into clusters based on their
     -Step 4: Re-compute the centroids of newly formed clusters 
     -Step 5: Repeat steps 3 and 4 
 ### And once the: 
-• Centroids of newly formed clusters do not change 
-• Points remain in the same cluster 
-• Maximum number of iterations are reached and we can stop the K-means algorithm.
+- • Centroids of newly formed clusters do not change 
+- • Points remain in the same cluster 
+- • Maximum number of iterations are reached and we can stop the K-means algorithm.
